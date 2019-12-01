@@ -1,0 +1,1 @@
+INSERT INTO PRODUCTS VALUES (100, 'Producto A', 160.60, '2018-10-23', 0, 'HARDWARE', 'Es un producto A')
